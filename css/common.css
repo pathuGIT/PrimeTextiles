@@ -1,0 +1,9 @@
+.products{
+    border: 1px solid black;
+    display: flex;
+    
+}
+.product{
+    border: 1px solid black;
+
+}

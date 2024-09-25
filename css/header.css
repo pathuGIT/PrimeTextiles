@@ -1,0 +1,13 @@
+.nav {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+.nav div{
+    padding: 2px 5px;
+}
+#logo.logo-left {
+    margin-right: auto;
+}
